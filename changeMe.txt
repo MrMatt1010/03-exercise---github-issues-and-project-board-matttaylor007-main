@@ -1,0 +1,3 @@
+Type something in here so that you have a change to commit to github 
+
+This is a test to ensure I understand the branch concept in Git 
